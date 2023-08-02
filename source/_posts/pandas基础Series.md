@@ -1,7 +1,7 @@
 ---
 title: pandas基础Series
 date: 2023-08-02 21:00:13
-tags:
+tags: pandas, 数据分析, 数据处理, 数据结构
 ---
 
 ## **pandas基础之series**
