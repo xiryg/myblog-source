@@ -8,7 +8,9 @@ subtitle: ''
 description: ''
 keywords:
 author: Xiryg.
-language: zh-CN
+language:
+  - zh-CN
+  - en
 timezone: ''
 
 # URL
@@ -97,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Cxo
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
