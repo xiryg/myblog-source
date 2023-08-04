@@ -1,7 +1,7 @@
 ---
 title: pandas基础之DataFrame
 date: 2023-08-02 23:13:47
-tags: pandas, 数据分析, 数据处理, 数据结构
+tags: python, pandas, 数据分析, 数据处理
 ---
 
 ### 简介
