@@ -2,6 +2,7 @@
 title: 简介（西里格）
 date: 2023-08-02 19:27:40
 layout: about
+comments: false
 ---
 
 
