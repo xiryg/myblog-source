@@ -5,13 +5,13 @@
 # Site
 title: "Xiryg's Blog."
 subtitle: 'Enjoy the experience'
-description: ''
+description: "这是我的个人博客，分享技术，一切感兴趣的事物!"
 keywords:
 author: Xiryg.
 language:
   - zh-CN
   - en
-timezone: ''
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
